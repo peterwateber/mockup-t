@@ -41,10 +41,6 @@ A simple React + Tailwind prototype demonstrating integration with the Integrati
     - Copy the `.env.template` file to `.env`
     - Update the values of `VITE_T_API_KEY` with the correct credentials.
 
-    ```
-    "Authorization": "ApiKey-v1 YOUR_API_KEY"
-    ```
-
 4. Run the development server
 
     ```
